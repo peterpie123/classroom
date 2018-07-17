@@ -7,6 +7,9 @@ This is **NOT** like a class you would have in school. There are no grades, no c
 [Java]: #Java
 
 ## Java
+
+[![Join the chat at https://gitter.im/pg-classroom/Lobby](https://badges.gitter.im/pg-classroom/Lobby.svg)](https://gitter.im/pg-classroom/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ### The complicated introduction
 According to Wikipedia, [Java][j-w] is a general-purpose computer-programming language that is concurrent, class-based, object-oriented, and specifically designed to have as few implementation dependencies as possible. 
 ### The simple introduction
