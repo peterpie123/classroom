@@ -14,9 +14,15 @@ This part of the readme is to get you set up with [git], the namesake of this we
 
 Learning git is an absolutely essential skill for any programmer. If you like, you can take a break from this exhausting block of text and look around GitHub for some cool projects (all built with git, of course). The first step is to install git, which is outlined in the section below.
 ### Installing git
-...but first, check to make sure it isn't installed already. Fire up your shell of choice (Windows' `cmd.exe` is convenient) and type in `git --version` and hit enter. If it says something like `git version 2.15`, you're in luck and can skip to the next section! If not, head to [https://git-scm.com/downloads] and download for your OS. After it is finished, type `git --version` in a fresh shell and hope it works. If it doesn't, post a message on gitter or check out your system `Path`.
+...but first, check to make sure it isn't installed already. Fire up your shell of choice (Windows' `cmd.exe` is convenient) and type in `git --version` and hit enter. If it says something like `git version 2.15`, you're in luck and can skip to the next section! If not, head to https://git-scm.com/downloads and download it for your OS. Make sure you download `Git Bash`, don't bother with `Git GUI`. More on this later. After it is finished, type `git --version` in a fresh shell and hope it works. If it doesn't, post a message on gitter or check out your system's `Path` variable.
 ### Create a GitHub account
 If you haven't already, you need a GitHub account so you can fork this repository and clone (download) it onto your machine. The process is super easy, but I recommend picking a username that isn't too stupid, as this account will likely serve as your programming 'portfolio' and is very painful to change the username of. Once you have an account, we continue our journey!
+### Getting this repository onto your machine
+Once your logged into your GitHub account, click the fork button on the top right of this page to essentially create a copy of everything in this. Once that's done, head to the new repository you just created and click the `Clone or download` button and copy the text field. Now, navigate to an empty folder wherever you want on your system (Documents works) and do the same thing in your shell of choice (Now that git is installed, I recommend right clicking in the folder and selecting `Git Bash Here`). 
+___
+In shell, type `git init` which should tell you that a new git repo has been created. Now type `git remote add origin <REPO_URL_HERE>` where _<REPO_URL_HERE>_ is the text you copied earlier. Now type `git pull origin master` and it will download everything in your forked repo onto your machine.
+### I'm lost. What the hell is git again?
+If you're confused, _DON'T PANIC!_, git is actually really simple. From the official git documentation, 
 
 ## Java
 ### The complicated introduction
