@@ -1,12 +1,15 @@
 [![Join the chat at https://gitter.im/pg-classroom/Lobby](https://badges.gitter.im/pg-classroom/Lobby.svg)](https://gitter.im/pg-classroom/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-This is **NOT** like a class you would have in school. There are no grades, no credits, nothing. I assume you're here because you want to learn something cool. You can check out all of the programming languages I have to offer down below. 
+This is **NOT** like a class you would have in school. There are no grades, no credits, nothing. I assume you're here because you want to learn something cool. Before you look at languages though, take a look at the [introduction] section. You can check out all of the programming languages I have to offer down below. If you need _help_, join our gitter channel! Just click the button above and create an account.
 
 | Language  | Difficulty | Uses                                     |
 | :-------- | :--------- | :--------------------------------------- |
 | [Java]    | `moderate` | Android, Desktop, Serverside, Government |
 
 [Java]: #Java
+
+## Introduction
+This part of the readme is to get you set up with [git], the namesake of this website and the primary way of tracking changes to source code.
 
 ## Java
 ### The complicated introduction
@@ -20,3 +23,5 @@ Please head to the [Java Wiki Page] for information that is actually helpful!
 [j-w]: https://en.wikipedia.org/wiki/Java_(programming_language)
 [1999 Toyota Corolla]: https://www.craigslist.org/about/best/hou/6565526716.html
 [Java Wiki Page]: https://github.com/peterpie123/classroom/wiki/Java
+[introduction]: #Introduction
+[git]: https://git-scm.com/
