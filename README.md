@@ -1,6 +1,6 @@
 [![Join the chat at https://gitter.im/pg-classroom/Lobby](https://badges.gitter.im/pg-classroom/Lobby.svg)](https://gitter.im/pg-classroom/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-This is **NOT** like a class you would have in school. There are no grades, no credits, nothing. I assume you're here because you want to learn something cool. Before you look at languages though, take a look at the [introduction] section. You can check out all of the programming languages I have to offer down below. If you need _help_, join our gitter channel! Just click the button above and create an account.
+This is **NOT** like a class you would have in school. There are no grades, no credits, nothing. I assume you're here because you want to learn something cool. Before you look at languages though, take a look at the [introduction] section. You can check out all of the programming languages I have to offer down below. If you need help with some `code`, join our gitter channel! Just click the button above and create an account!
 
 | Language  | Difficulty | Uses                                     |
 | :-------- | :--------- | :--------------------------------------- |
@@ -9,7 +9,14 @@ This is **NOT** like a class you would have in school. There are no grades, no c
 [Java]: #Java
 
 ## Introduction
-This part of the readme is to get you set up with [git], the namesake of this website and the primary way of tracking changes to source code.
+This part of the readme is to get you set up with [git], the namesake of this website and the primary way of tracking changes to source code _and_ how this class is distributed. 
+
+
+Learning git is an absolutely essential skill for any programmer. If you like, you can take a break from this exhausting block of text and look around GitHub for some cool projects (all built with git, of course). The first step is to install git, which is outlined in the section below.
+### Installing git
+...but first, check to make sure it isn't installed already. Fire up your shell of choice (Windows' `cmd.exe` is convenient) and type in `git --version` and hit enter. If it says something like `git version 2.15`, you're in luck and can skip to the next section! If not, head to [https://git-scm.com/downloads] and download for your OS. After it is finished, type `git --version` in a fresh shell and hope it works. If it doesn't, post a message on gitter or check out your system `Path`.
+### Create a GitHub account
+If you haven't already, you need a GitHub account so you can fork this repository and clone (download) it onto your machine. The process is super easy, but I recommend picking a username that isn't too stupid, as this account will likely serve as your programming 'portfolio' and is very painful to change the username of. Once you have an account, we continue our journey!
 
 ## Java
 ### The complicated introduction
@@ -23,5 +30,5 @@ Please head to the [Java Wiki Page] for information that is actually helpful!
 [j-w]: https://en.wikipedia.org/wiki/Java_(programming_language)
 [1999 Toyota Corolla]: https://www.craigslist.org/about/best/hou/6565526716.html
 [Java Wiki Page]: https://github.com/peterpie123/classroom/wiki/Java
-[introduction]: #Introduction
+[introduction]: #introduction
 [git]: https://git-scm.com/
