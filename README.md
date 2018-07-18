@@ -21,8 +21,14 @@ If you haven't already, you need a GitHub account so you can fork this repositor
 Once your logged into your GitHub account, click the fork button on the top right of this page to essentially create a copy of everything in this. Once that's done, head to the new repository you just created and click the `Clone or download` button and copy the text field. Now, navigate to an empty folder wherever you want on your system (Documents works) and do the same thing in your shell of choice (Now that git is installed, I recommend right clicking in the folder and selecting `Git Bash Here`). 
 ___
 In shell, type `git init` which should tell you that a new git repo has been created. Now type `git remote add origin <REPO_URL_HERE>` where _<REPO_URL_HERE>_ is the text you copied earlier. Now type `git pull origin master` and it will download everything in your forked repo onto your machine.
-### I'm lost. What the hell is git again?
-If you're confused, _DON'T PANIC!_, git is actually really simple. From the official git documentation, 
+### I'm lost. What the heck is git again?
+If you're confused, _DON'T PANIC!_, git is actually really simple. We'll start at the beginning, with the name
+> The name "git" was given by Linus Torvalds when he wrote the very first version. He described the tool as "the stupid content tracker" and the name as (depending on your mood):
+
+> - random three-letter combination that is pronounceable, and not actually used by any common UNIX command. The fact that it is a mispronunciation of "get" may or may not be relevant.
+> - stupid. contemptible and despicable. simple. Take your pick from the dictionary of slang.
+> - "global information tracker": you're in a good mood, and it actually works for you. Angels sing, and a light suddenly fills the room.
+> - "goddamn idiotic truckload of sh*t": when it breaks
 
 ## Java
 ### The complicated introduction
