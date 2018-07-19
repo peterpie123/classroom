@@ -11,7 +11,7 @@ This is **NOT** like a class you would have in school. There are no grades, no c
 ## Getting started
 This part of the readme is to get you set up with [git], the namesake of this website and the primary way of tracking changes to source code _and_ how you use this class. 
 
-Learning git is an absolutely essential skill for any programmer. If you like, you can take a break from this exhausting block of text and look around GitHub for some cool projects (all built with git, of course). To use this class, you **need** to get set up with git, which  is outlined at the [git wiki page].
+Learning git is an absolutely essential skill for any programmer. If you like, you can take a break from this exhausting block of text and look around GitHub for some cool projects (all built with git, of course). To use this class, you **need** to get set up with git, which  is outlined at the [git introductory wiki page].
 
 ## Java
 ### The complicated introduction
@@ -28,4 +28,4 @@ Please head to the [Java Wiki Page] for information that is actually helpful!
 [getting started]: #getting-started
 [git]: https://git-scm.com/
 [git documentation]: https://github.com/git/git#git---fast-scalable-distributed-revision-control-system
-[git wiki page]: https://github.com/peterpie123/classroom/wiki/Git-%E2%80%90-Introduction
+[git introductory wiki page]: https://github.com/peterpie123/classroom/wiki/Git-%E2%80%90-Introduction
