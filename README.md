@@ -6,7 +6,7 @@ This is **NOT** like a class you would have in school. There are no grades, no c
 | :-------- | :--------- | :--------------------------------------- |
 | [Java]    | `moderate` | Android, Desktop, Serverside, Government |
 
-[Java]: #Java
+[Java]: #java
 
 ## How this class works
 ### Distribution
