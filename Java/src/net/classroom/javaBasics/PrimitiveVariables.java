@@ -1,5 +1,10 @@
 package net.classroom.javaBasics;
 
+/**
+ * Introduction to variables
+ * <br/>
+ * @author Peter Geertsema
+ */
 public class PrimitiveVariables {
     public static void main(String[] args) {
         //can be true or false

@@ -2,6 +2,7 @@ package net.classroom.methodsAndObjects.model;
 
 /**
  * Generic boat class used for the classroom
+ * @author Peter Geertsema
  */
 public class Boat {
     //this allows easy folding of the variables
@@ -79,6 +80,8 @@ public class Boat {
 
     //endregion
 
+    //the methods that get and set the instance variables
+    //region Getters and Setters
     /**
      * Changes from MPH to KPH and vice versa
      */
@@ -131,6 +134,7 @@ public class Boat {
     public void setAge(double age) {
         this.age = age;
     }
+    //endregion
 
     //static methods used for conversions only.
     //region Static Methods

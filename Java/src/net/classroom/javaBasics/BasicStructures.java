@@ -1,5 +1,9 @@
 package net.classroom.javaBasics;
 
+/**
+ * Basic conditional and iterative structures
+ * @author Peter Geertsema
+ */
 public class BasicStructures {
     public static void main(String[] args) {
         //this makes declaring variables even easier!

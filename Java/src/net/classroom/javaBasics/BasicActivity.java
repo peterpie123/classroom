@@ -8,6 +8,7 @@ package net.classroom.javaBasics;
  * Use a String, and at least two primitive types
  * Use at least one String method
  * Have some console output
+ * @author YOU!
  */
 public class BasicActivity {
     /*

@@ -1,5 +1,9 @@
 package net.classroom.methodsAndObjects;
 
+/**
+ * Introduction to methods
+ * @author Peter Geertsema
+ */
 public class MethodIntroduction {
     public static void main(String[] args) {
         //this calls the printHello method defined below

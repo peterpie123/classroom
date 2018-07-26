@@ -1,5 +1,9 @@
 package net.classroom.javaBasics;
 
+/**
+ * Introduction to String's and String methods
+ * @author Peter Geertsema
+ */
 public class Strings {
     public static void main(String[] args) {
         //This is a string - a sequence of characters like this comment!

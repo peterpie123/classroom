@@ -3,6 +3,13 @@ package net.classroom.methodsAndObjects;
 //import the Boat class from the model package
 import net.classroom.methodsAndObjects.model.Boat;
 
+/**
+ * Introduction to objects
+ * <br/>
+ * Take a look at {@link net.classroom.examples.sandwhich.Bread } for an example
+ * Control click 'Bread' to open up the class
+ * @author Peter Geertsema
+ */
 public class ObjectIntroduction {
     public static void main(String[] args) {
         //create a new boat
@@ -15,6 +22,8 @@ public class ObjectIntroduction {
         //Take a look at the boat class in the model package as you read the wiki page
 
         //now try making a setMaxSpeed method where it tells you too in Boat.java!
+        //try creating your own boat on the line below
+
 
         //once you've done that, make a method in this class (below boatToString()) that prints the boatToString in KPH
         //HINT: YOU DON'T NEED TO DO ANYTHING WITH STRINGS, THE METHOD BODY CAN BE TWO LINES!!!

@@ -1,5 +1,9 @@
 package net.classroom.javaBasics;
 
+/**
+ * Comments and printing to console!
+ * @author Peter Geertsema
+ */
 public class HelloWorld {
     public static void main(String[] args) {
         // This is a single-line comment!

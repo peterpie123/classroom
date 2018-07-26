@@ -1,5 +1,9 @@
 package net.classroom.javaBasics;
 
+/**
+ * Introduction to arrays
+ * @author Peter Geertsema
+ */
 public class Arrays {
     public static void main(String[] args) {
         //create a new array of integers of size 6

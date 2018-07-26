@@ -2,11 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab3fbdc4-79e6-4e62-a615-b2c0488ef034" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/net/classroom/javaBasics/Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/classroom/javaBasics/BasicActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/classroom/methodsAndObjects/ObjectIntroduction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/classroom/methodsAndObjects/model/Boat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/classroom/examples/sandwhich/Bread.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/classroom/javaBasics/Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/classroom/javaBasics/Arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/classroom/javaBasics/BasicActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/classroom/javaBasics/BasicActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/classroom/javaBasics/BasicStructures.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/classroom/javaBasics/BasicStructures.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/classroom/javaBasics/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/classroom/javaBasics/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/classroom/javaBasics/PrimitiveVariables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/classroom/javaBasics/PrimitiveVariables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/classroom/javaBasics/Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/classroom/javaBasics/Strings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/classroom/javaBasics/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/classroom/javaBasics/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/classroom/methodsAndObjects/MethodIntroduction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/classroom/methodsAndObjects/MethodIntroduction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/classroom/methodsAndObjects/ObjectIntroduction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/classroom/methodsAndObjects/ObjectIntroduction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/classroom/methodsAndObjects/model/Boat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/classroom/methodsAndObjects/model/Boat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/classroom/methodsAndObjects/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/classroom/methodsAndObjects/package-info.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,50 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MethodIntroduction.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/net/classroom/methodsAndObjects/MethodIntroduction.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ObjectIntroduction.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/net/classroom/methodsAndObjects/ObjectIntroduction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Boat.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/net/classroom/methodsAndObjects/model/Boat.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="44" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
-              <folding>
-                <element signature="e#113#131#0" />
-                <element signature="e#1036#1057#0" />
-                <element signature="e#2959#2960#0" expanded="true" />
-                <element signature="e#2987#2988#0" expanded="true" />
-                <element signature="e#3099#3100#0" expanded="true" />
-                <element signature="e#3128#3129#0" expanded="true" />
-                <element signature="e#3159#3160#0" expanded="true" />
-                <element signature="e#3191#3192#0" expanded="true" />
-                <element signature="e#3231#3232#0" expanded="true" />
-                <element signature="e#3263#3264#0" expanded="true" />
-                <element signature="e#3293#3294#0" expanded="true" />
-                <element signature="e#3324#3325#0" expanded="true" />
-                <element signature="e#3362#3363#0" expanded="true" />
-                <element signature="e#3392#3393#0" expanded="true" />
-                <element signature="e#3447#3470#0" />
-                <element signature="e#3561#3562#0" expanded="true" />
-                <element signature="e#3608#3609#0" expanded="true" />
-                <element signature="e#3701#3702#0" expanded="true" />
-                <element signature="e#3748#3749#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="425">
+              <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -87,22 +56,23 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/net/classroom/javaBasics/Arrays.java" />
+        <option value="$PROJECT_DIR$/src/net/classroom/javaBasics/BasicActivity.java" />
+        <option value="$PROJECT_DIR$/src/net/classroom/javaBasics/BasicStructures.java" />
+        <option value="$PROJECT_DIR$/src/net/classroom/javaBasics/HelloWorld.java" />
         <option value="$PROJECT_DIR$/src/net/classroom/javaBasics/package-info.java" />
         <option value="$PROJECT_DIR$/src/net/classroom/javaBasics/PrimitiveVariables.java" />
-        <option value="$PROJECT_DIR$/src/net/classroom/javaBasics/HelloWorld.java" />
         <option value="$PROJECT_DIR$/src/net/classroom/javaBasics/Strings.java" />
-        <option value="$PROJECT_DIR$/src/net/classroom/javaBasics/BasicStructures.java" />
-        <option value="$PROJECT_DIR$/src/net/classroom/methodsAndObjects/package-info.java" />
         <option value="$PROJECT_DIR$/src/net/classroom/methodsAndObjects/MethodIntroduction.java" />
-        <option value="$PROJECT_DIR$/src/net/classroom/javaBasics/BasicActivity.java" />
         <option value="$PROJECT_DIR$/src/net/classroom/methodsAndObjects/model/Boat.java" />
-        <option value="$PROJECT_DIR$/src/net/classroom/javaBasics/Arrays.java" />
+        <option value="$PROJECT_DIR$/src/net/classroom/methodsAndObjects/package-info.java" />
+        <option value="$PROJECT_DIR$/src/net/classroom/examples/sandwhich/Bread.java" />
         <option value="$PROJECT_DIR$/src/net/classroom/methodsAndObjects/ObjectIntroduction.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="99" />
+    <option name="x" value="270" />
     <option name="y" value="-8" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
@@ -145,7 +115,7 @@
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="classroom" type="462c0819:PsiDirectoryNode" />
-              <item name="javaBasics" type="462c0819:PsiDirectoryNode" />
+              <item name="sandwhich" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java" type="b2602c69:ProjectViewProjectNode" />
@@ -153,14 +123,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="classroom" type="462c0819:PsiDirectoryNode" />
               <item name="methodsAndObjects" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="classroom" type="462c0819:PsiDirectoryNode" />
-              <item name="methodsAndObjects" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -170,10 +132,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -313,7 +275,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="4" />
+      <option name="time" value="14" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -321,6 +283,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#665#666#0" expanded="true" />
+            <element signature="e#708#709#0" expanded="true" />
+            <element signature="e#792#793#0" expanded="true" />
+            <element signature="e#819#820#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -412,62 +380,6 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/dictionaries/iwann.xml" />
-    <entry file="file://$PROJECT_DIR$/src/net/classroom/javaBasics/PrimitiveVariables.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="43" column="58" selection-start-line="43" selection-start-column="58" selection-end-line="43" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/net/classroom/javaBasics/HelloWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="70" selection-start-line="11" selection-start-column="70" selection-end-line="11" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/net/classroom/javaBasics/package-info.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/net/classroom/javaBasics/Strings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/net/classroom/methodsAndObjects/package-info.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="3" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/net/classroom/javaBasics/BasicStructures.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/net/classroom/javaBasics/BasicActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/net/classroom/methodsAndObjects/MethodIntroduction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -475,13 +387,88 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/net/classroom/methodsAndObjects/model/Boat.java">
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="28" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/classroom/examples/Sandwhich.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/classroom/javaBasics/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="50" lean-forward="true" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/classroom/javaBasics/BasicActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/classroom/javaBasics/BasicStructures.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="33" lean-forward="true" selection-start-column="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/classroom/javaBasics/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/classroom/javaBasics/package-info.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" column="44" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/classroom/javaBasics/PrimitiveVariables.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/classroom/javaBasics/Strings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="244" column="18" selection-start-line="244" selection-start-column="18" selection-end-line="244" selection-end-column="18" />
+          <folding>
+            <element signature="e#10225#10226#0" expanded="true" />
+            <element signature="e#10308#10309#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/classroom/methodsAndObjects/model/Boat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
           <folding>
             <element signature="e#113#131#0" />
             <element signature="e#1036#1057#0" />
+            <element signature="e#2327#2355#0" />
             <element signature="e#2959#2960#0" expanded="true" />
             <element signature="e#2987#2988#0" expanded="true" />
             <element signature="e#3099#3100#0" expanded="true" />
@@ -503,24 +490,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+    <entry file="file://$PROJECT_DIR$/src/net/classroom/methodsAndObjects/package-info.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="28" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+        <state relative-caret-position="51">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/net/classroom/javaBasics/Arrays.java">
+    <entry file="file://$PROJECT_DIR$/src/net/classroom/methodsAndObjects/MethodIntroduction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="68">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/classroom/examples/sandwhich/Sandwhich.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/classroom/examples/sandwhich/Bread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="45" column="73" lean-forward="true" selection-start-line="45" selection-start-column="73" selection-end-line="45" selection-end-column="73" />
+          <folding>
+            <element signature="e#137#164#0" />
+            <element signature="e#352#372#0" />
+            <element signature="e#1065#1092#0" />
+            <element signature="e#1438#1439#0" expanded="true" />
+            <element signature="e#1509#1510#0" expanded="true" />
+            <element signature="e#1597#1598#0" expanded="true" />
+            <element signature="e#1635#1636#0" expanded="true" />
+            <element signature="e#1696#1697#0" expanded="true" />
+            <element signature="e#1751#1752#0" expanded="true" />
+            <element signature="e#1976#1977#0" expanded="true" />
+            <element signature="e#2013#2014#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/net/classroom/methodsAndObjects/ObjectIntroduction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+        <state relative-caret-position="425">
+          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
         </state>
       </provider>
     </entry>
