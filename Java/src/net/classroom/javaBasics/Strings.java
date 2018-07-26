@@ -22,5 +22,7 @@ public class Strings {
 
         //now try getting just "World" out of the string and printing it out
 
+
+        //now experiment with using charAt and equals and printing the result to the console
     }
 }

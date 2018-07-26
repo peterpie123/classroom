@@ -8,5 +8,7 @@ public class HelloWorld {
 
         // The line below should not be commented -- uncomment it by removing the two slashes!
         // System.out.println("Hello, World");
+        // Notice the semicolon (;) at the end of the print statement.
+        // A semicolon is REQUIRED for every single expression in Java
     }
 }
