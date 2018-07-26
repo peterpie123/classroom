@@ -8,6 +8,12 @@ This is **NOT** like a class you would have in school. There are no grades, no c
 
 [Java]: #Java
 
+## How this class works
+### Distribution
+This class is distributed using git, the details of which are described in [Getting started].
+### Class Structure
+This class is broken up into different languages (only Java for now), each with different sections. Every language has an introductory page that tells you what folders are covered by what wiki pages. The wiki page relevent to the folder you are in has a list of all the files covered and what order to try them out in. I **highly** recommend you follow the order I set out for you - you need a solid foundation to do anything complex. 
+
 ## Getting started
 This part of the readme is to get you set up with [git], the namesake of this website and the primary way of tracking changes to source code _and_ how you use this class. 
 
@@ -29,3 +35,4 @@ Please head to the [Java Wiki Page] for information that is actually helpful!
 [git]: https://git-scm.com/
 [git documentation]: https://github.com/git/git#git---fast-scalable-distributed-revision-control-system
 [git introductory wiki page]: https://github.com/peterpie123/classroom/wiki/Git-%E2%80%90-Introduction
+[Getting started]: #getting-started
