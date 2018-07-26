@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab3fbdc4-79e6-4e62-a615-b2c0488ef034" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/net/classroom/javaBasics/Strings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/classroom/javaBasics/package-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/net/classroom/javaBasics/PrimitiveVariables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/classroom/javaBasics/PrimitiveVariables.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -26,20 +23,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PrimitiveVariables.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="PrimitiveVariables.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/net/classroom/javaBasics/PrimitiveVariables.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="621">
+              <caret line="43" column="58" selection-start-line="43" selection-start-column="58" selection-end-line="43" selection-end-column="58" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Strings.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Strings.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/net/classroom/javaBasics/Strings.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="374">
-              <caret line="22" column="76" lean-forward="true" selection-start-line="22" selection-start-column="76" selection-end-line="22" selection-end-column="76" />
+              <caret line="22" column="76" selection-start-line="22" selection-start-column="76" selection-end-line="22" selection-end-column="76" />
             </state>
           </provider>
         </entry>
@@ -62,8 +59,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/net/classroom/javaBasics/HelloWorld.java" />
         <option value="$PROJECT_DIR$/src/net/classroom/javaBasics/package-info.java" />
-        <option value="$PROJECT_DIR$/src/net/classroom/javaBasics/PrimitiveVariables.java" />
         <option value="$PROJECT_DIR$/src/net/classroom/javaBasics/Strings.java" />
+        <option value="$PROJECT_DIR$/src/net/classroom/javaBasics/PrimitiveVariables.java" />
       </list>
     </option>
   </component>
@@ -81,8 +78,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -110,6 +105,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -194,16 +191,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32943678" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32943678" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -211,8 +208,8 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -220,12 +217,34 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="7" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/net/classroom/javaBasics/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/classroom/javaBasics/PrimitiveVariables.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/classroom/javaBasics/Strings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="76" lean-forward="true" selection-start-line="22" selection-start-column="76" selection-end-line="22" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/net/classroom/javaBasics/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -271,16 +290,7 @@
     <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/net/classroom/javaBasics/PrimitiveVariables.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/dictionaries/iwann.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/dictionaries/iwann.xml" />
     <entry file="file://$PROJECT_DIR$/src/net/classroom/javaBasics/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -298,7 +308,14 @@
     <entry file="file://$PROJECT_DIR$/src/net/classroom/javaBasics/Strings.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
-          <caret line="22" column="76" lean-forward="true" selection-start-line="22" selection-start-column="76" selection-end-line="22" selection-end-column="76" />
+          <caret line="22" column="76" selection-start-line="22" selection-start-column="76" selection-end-line="22" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/classroom/javaBasics/PrimitiveVariables.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="43" column="58" selection-start-line="43" selection-start-column="58" selection-end-line="43" selection-end-column="58" />
         </state>
       </provider>
     </entry>
